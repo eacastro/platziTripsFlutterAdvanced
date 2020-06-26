@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:platzi_trips/description_place.dart';
-import 'package:platzi_trips/header_appbar.dart';
-import 'package:platzi_trips/review_list.dart';
+import 'package:platzi_trips/Place/ui/screens/header_appbar.dart';
+import 'package:platzi_trips/Place/ui/widgets/description_place.dart';
+import 'package:platzi_trips/Place/ui/widgets/review_list.dart';
+
 
 class HomeTrips extends StatelessWidget {
   @override
