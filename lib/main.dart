@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:platzi_trips/platzi_trips_cupertino.dart';
+import 'package:platzi_trips/User/ui/screens/sign_in_screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Platzi Trips',
       theme: ThemeData(),
-      home: PlatziTripsCupertino(),
+      home: SignInScreen(),
     );
   }
 }
