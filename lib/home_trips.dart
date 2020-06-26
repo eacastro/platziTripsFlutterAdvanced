@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:platzi_trips/description_place.dart';
 import 'package:platzi_trips/header_appbar.dart';
+import 'package:platzi_trips/review_list.dart';
 
 class HomeTrips extends StatelessWidget {
   String descriptionDummy = 'Lorem Ipsum is simply dummy text' +
